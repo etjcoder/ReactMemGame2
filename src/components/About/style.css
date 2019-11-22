@@ -1,0 +1,17 @@
+.container {
+    background: white;
+    text-align: center;
+}
+
+.card-img-top{
+    width: 50%;
+    height: 50%;
+}
+
+h1 {
+    color: white;
+}
+
+/* .card {
+    width: 50%
+} */
